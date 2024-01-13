@@ -1,2 +1,2 @@
 # Imports-Fixer
-Simple Imports Fixer
+The "Imports Fixer" script is a Python tool designed to assist in the generation of C++ code for fixing and managing imports from dynamic-link libraries (DLLs). The script reads information from an XML file containing details about DLL imports and produces corresponding C++ code snippets using functions like GetProcAddress and LoadLibraryA. The generated code aims to dynamically link and resolve function addresses during runtime.
